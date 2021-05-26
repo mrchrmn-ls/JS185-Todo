@@ -5,3 +5,4 @@ package-lock.json
 session-store.db
 sql/users.sql
 .vscode
+.env
